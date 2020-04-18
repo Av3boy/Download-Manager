@@ -1,0 +1,15 @@
+D:\CSharp\ConnectToServer\bin\Release\netcoreapp3.0\Download.exe
+D:\CSharp\ConnectToServer\bin\Release\netcoreapp3.0\Download.deps.json
+D:\CSharp\ConnectToServer\bin\Release\netcoreapp3.0\Download.runtimeconfig.json
+D:\CSharp\ConnectToServer\bin\Release\netcoreapp3.0\Download.runtimeconfig.dev.json
+D:\CSharp\ConnectToServer\bin\Release\netcoreapp3.0\Download.dll
+D:\CSharp\ConnectToServer\bin\Release\netcoreapp3.0\Download.pdb
+D:\CSharp\ConnectToServer\bin\Release\netcoreapp3.0\libvideo.dll
+D:\CSharp\ConnectToServer\obj\Release\netcoreapp3.0\Download.csproj.ResolveComReference.cache
+D:\CSharp\ConnectToServer\obj\Release\netcoreapp3.0\Download.Properties.Resources.resources
+D:\CSharp\ConnectToServer\obj\Release\netcoreapp3.0\Download.csproj.GenerateResource.cache
+D:\CSharp\ConnectToServer\obj\Release\netcoreapp3.0\Download.AssemblyInfoInputs.cache
+D:\CSharp\ConnectToServer\obj\Release\netcoreapp3.0\Download.AssemblyInfo.cs
+D:\CSharp\ConnectToServer\obj\Release\netcoreapp3.0\Download.csproj.CopyComplete
+D:\CSharp\ConnectToServer\obj\Release\netcoreapp3.0\Download.dll
+D:\CSharp\ConnectToServer\obj\Release\netcoreapp3.0\Download.pdb
